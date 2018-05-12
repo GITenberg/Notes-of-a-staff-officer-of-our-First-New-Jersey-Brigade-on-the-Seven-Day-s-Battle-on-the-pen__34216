@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36880'
     url: http://www.gutenberg.org/2009/agents/36880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34216#Notes-of-a-staff-officer-of-our-First-New-Jersey-Brigade-on-the-Seven-Day-s-Battle-on-the-pen_
 gutenberg_issued: '2010-11-05'
 gutenberg_type: Text
 identifiers:
