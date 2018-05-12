@@ -1,0 +1,31 @@
+_repo: Notes-of-a-staff-officer-of-our-First-New-Jersey-Brigade-on-the-Seven-Day-s-Battle-on-the-pen__34216
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34216-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Grubb, E. Burd (Edward Burd)
+    alias: Grubb, Edward Burd
+    birthdate: 1841
+    deathdate: 1913
+    gutenberg_agent_id: '36880'
+    url: http://www.gutenberg.org/2009/agents/36880
+description: ''
+gutenberg_issued: '2010-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34216'
+  lccn: '15019299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- New Jersey Infantry -- Kearny''s Brigade'
+- !lcsh 'Seven Days'' Battles, Va., 1862'
+- !lcc 'E456'
+title: Notes of a staff officer of our First New Jersey Brigade on the Seven Day's
+  Battle on the peninsula in 1862
+url: http://www.gutenberg.org/ebooks/34216
